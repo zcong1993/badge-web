@@ -3,7 +3,7 @@ module.exports = {
   description: 'Badge Service By Golang',
   serviceWorker: true,
   themeConfig: {
-    repo: 'zcong1993/badge-service-docs',
+    repo: 'zcong1993/badge-web',
     editLinks: true,
     docsDir: 'docs'
   },
