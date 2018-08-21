@@ -1,0 +1,18 @@
+{
+  "name": "badge-web",
+  "version": "0.0.0",
+  "description": "my cool project",
+  "repository": {
+    "url": "zcong1993/badge-web",
+    "type": "git"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs -d dist"
+  },
+  "author": "zcong1993 <1005997919@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.14.2"
+  }
+}
